@@ -40,5 +40,5 @@ Outside the nested loop
 180
 Outside the nested loop
  
-for i in range(10):
+for i in range(12):
     pass #pass is the equivalent of "do nothing"; it is actually a placeholder for when you just want to write a piece of code that you will treat later
