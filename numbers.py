@@ -15,6 +15,8 @@ print(max(var1,var2))
 
 print(min(var1,var2))
 
+print(min(var1,var2))
+
 #To the power
 
 print(pow(var1,var2))
