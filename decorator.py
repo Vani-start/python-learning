@@ -11,7 +11,7 @@ def decfun(deffunc):
 
 @decfun
 def deffunc():
-	return "COOL"
+	return "HOT"
 	
 deffunc()
 		
