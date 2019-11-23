@@ -11,8 +11,8 @@ my_function1("Rani","Vani")
 
 
 #Function with return statements
-def my_sum(m,p,c):
- sum = m+p+c
+def my_sum(m,p,v):
+ sum = m+p+v
  return sum
 	
 
